@@ -112,7 +112,7 @@ particlesJS("particles-js", {
 
 
   gsap.to(".header", {
-    text:"Hello, I’m Anastasiia Kucher.<br \/>   <br \/>  I’m a Front-end developer.",
+    text:"Hello, I’m Anastasiia Kucher.<br \/>   <br \/>  I’m a Frontend developer.",
     duration: 5,
     delay: .5,
     ease: "power1.in",
